@@ -8,3 +8,5 @@ Giao diện phím nhấn có 4 nút RUN MODE UP DOWN, cài đặt các số li�
 Giao diện LCD tự trang trí
 Nút MODE sẽ vào các chế độ cài đặt thời điểm trong ngày, trạng thái bật tắt, và bật trong bao lâu
 Có kết nối qua cổng UART đề cài đặt nhanh và giám sát từ xa qua máy tính. Mã lệnh tự cấu hình
+
+Link [TinkerCard](https://www.tinkercad.com/things/8TGoI05PN2Z-copy-of-socket/editel?sharecode=V8mAv_aHJ-gJE6MGZsEM5lrtflnSsQJdfFLCoCJV8T4)
